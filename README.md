@@ -1,5 +1,5 @@
-# •Currency Convertor Python 
-## •The real time currency converter project is designed to convert any assigned currency to any other currency.
+# Currency Convertor Python 
+## The real time currency converter project is designed to convert any assigned currency to any other currency.
 
 In this project I have created a currency converter using python with sql connectivity.
 The project is also connected with live real time API so that the program is up to date with the constantly changing value of different currencies.This project have following functionalities: 
@@ -8,9 +8,9 @@ The project is also connected with live real time API so that the program is up 
 * Sql connectivity with python is also present to store the data for future refrence.
 * Comes equipped with a live api for real time tracking.
 
-## •Watch the live demo video (YT): 
+## Watch the live demo video (YT): 
   
-## •How to install and use the Currency Convertor:
+## How to install and use the Currency Convertor:
 1. Clone this project to your local pc.
 2. Install the latest version of Python and MySQL(optional) in your pc if not already installed.
 3. Before running the program following modules are needed to be installed by these commands:
@@ -23,6 +23,6 @@ The project is also connected with live real time API so that the program is up 
 5. Before Executing the program you also need to subscribel to this API below:
   https://rapidapi.com/solutionsbynotnull/api/currency-converter18/
 
-6. •Now Simply execute the convertor.py file to use the currency calculator.
+6. Now Simply execute the convertor.py file to use the currency calculator.
 
 ### Thanks for using my project !
