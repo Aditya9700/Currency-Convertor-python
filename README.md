@@ -5,7 +5,7 @@ In this project I have created a currency converter using python with sql connec
 The project is also connected with live real time API so that the program is up to date with the constantly changing value of different currencies.This project have following functionalities: 
 * Real time currency conversion.
 * Comes with a GUI for interaction with user.
-* Sql connectivity with python is also present to store the data for future refrence.
+* Sql connectivity with python is also present to store the data for future reference.
 * Comes equipped with a live api for real time tracking.
 
 ## Watch the live demo video (YT): 
