@@ -1,5 +1,5 @@
 # •Currency Convertor Python 
-# •The real time currency converter project is designed to convert any assigned currency to any other currency.
+## •The real time currency converter project is designed to convert any assigned currency to any other currency.
 
 In this project I have created a currency converter using python with sql connectivity.
 The project is also connected with live real time API so that the program is up to date with the constantly changing value of different currencies.This project have following functionalities: 
@@ -25,4 +25,4 @@ The project is also connected with live real time API so that the program is up 
 
 6. •Now Simply execute the convertor.py file to use the currency calculator.
 
-#### Thanks for using my project 
+### Thanks for using my project !
